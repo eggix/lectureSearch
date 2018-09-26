@@ -1,0 +1,2 @@
+* CAMPUSonline® Lecture Search
+Use HTTP POST requests to search [[https://campusonline.tugraz.at/][CAMPUSonline]]® for lectures. Current version is specific to [[https://campusonline.uni-bayreuth.de][Uni Bayreuth]] and might NOT work with other CAMPUSonline® instances. This may change in the future.
